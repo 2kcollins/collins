@@ -1,0 +1,20 @@
+.big{background-color: orangered}
+    .big{color: lawngreen;}
+    .kiss{border: solid 3px blueviolet;background-color: sandybrown;color: #000000;
+    padding: 20px 50px 20px 50px;}
+    .gspot{border: solid;padding: 50px;background-color: lightblue;}
+    .gf{border: solid;border-radius: 30px 30px 0px 0px;
+    margin: 50px 40px 30px 20px;
+    }
+    .cv{padding-top: 100px;
+    }
+    .c{text-align: center;}
+    .vb{blue}
+    .tj{padding-top: 20px;text-align: center;padding-bottom: 20px;
+    transform: rotate( 20deg);
+    background-color: gold;color:black;}
+    .gk{border: solid ;padding: 20px;}
+    .r{padding-top: 5px;padding-bottom: 28px;text-align: left;}
+    .er{font-family: cursive;font-weight:bold;font-size: 30px;}
+.kl{padding-bottom: 20px;padding-top: 20px;}
+
