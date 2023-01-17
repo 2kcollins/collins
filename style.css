@@ -1,20 +1,19 @@
-.big{background-color: orangered}
+html{margin: 0;height: 100%;width: 100%;
+padding: 0;overflow-x: hidden;}
+body{margin: 0;height: 100%;width: 100%;padding: 0;overflow-x: hidden;}
+big{background-color: orangered}
     .big{color: lawngreen;}
-    .kiss{border: solid 3px blueviolet;background-color: sandybrown;color: #000000;
+    .kiss{border: solid 3px blueviolet;background-color:honeydew;color:black;
     padding: 20px 50px 20px 50px;}
-    .gspot{border: solid;padding: 50px;background-color: lightblue;}
-    .gf{border: solid;border-radius: 30px 30px 0px 0px;
-    margin: 50px 40px 30px 20px;
-    }
-    .cv{padding-top: 100px;
-    }
-    .c{text-align: center;}
+    .c{text-align: center;font-style: italic;font-weight: bold;color: white;}
     .vb{blue}
     .tj{padding-top: 20px;text-align: center;padding-bottom: 20px;
-    transform: rotate( 20deg);
-    background-color: gold;color:black;}
-    .gk{border: solid ;padding: 20px;}
+    transform: rotate( 360deg);
+    background-color: darkgray;color:black;}
+    .gk{border: solid ;padding: 20px;background-color: darkgray;}
     .r{padding-top: 5px;padding-bottom: 28px;text-align: left;}
-    .er{font-family: cursive;font-weight:bold;font-size: 30px;}
-.kl{padding-bottom: 20px;padding-top: 20px;}
+h1{color:black;font-style:italic;font-weight:bold;}
+.gf{padding-right: 40px;}
+.i{font-style: italic;font-weight: bold;}
+.jbl{font-weight: bold;}
 
